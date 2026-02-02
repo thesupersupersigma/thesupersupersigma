@@ -8,7 +8,7 @@ tiktok: https://www.tiktok.com/@thesupersupersigma?lang=en
 discord: thesupersupersigma
 youtube: https://www.youtube.com/@thesupersupersigma
 
-![Visit My Website]([image_URL_or_relative_path](https://top10websites.lol/yunomiles.png))
+![Visit My Website](https://top10websites.lol/yunomiles.png)
 
 If any of my repositories are public message me immediately on discord
 
