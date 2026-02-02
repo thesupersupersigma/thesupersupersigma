@@ -5,7 +5,9 @@ https://top10websites.lol
 https://discord.com
 
 tiktok: https://www.tiktok.com/@thesupersupersigma?lang=en
+
 discord: thesupersupersigma
+
 youtube: https://www.youtube.com/@thesupersupersigma
 
 ![Visit My Website](https://top10websites.lol/yunomiles.png)
