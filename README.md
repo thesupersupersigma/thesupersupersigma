@@ -6,6 +6,8 @@ https://discord.com
 
 tiktok: https://www.tiktok.com/@thesupersupersigma?lang=en
 
+https://instagram.com
+
 discord: thesupersupersigma
 
 youtube: https://www.youtube.com/@thesupersupersigma
