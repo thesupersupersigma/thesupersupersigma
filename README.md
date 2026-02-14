@@ -24,7 +24,7 @@ youtube: https://www.youtube.com/@thesupersupersigma
 
 <!--[![youtube logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/960px-YouTube_dark_logo_2017.svg.png?20180405191459)](https://www.youtube.com/@thesupersupersigma)-->
 
-![Visit My Website](https://top10websites.lol/yunomiles.png)
+[![Visit My Website](https://top10websites.lol/yunomiles.png)](https://top10websites.lol/)
 
 If any of my repositories are public message me immediately on discord
 
