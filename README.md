@@ -22,7 +22,7 @@ https://www.youtube.com
 
 <!--[![youtube logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/960px-YouTube_dark_logo_2017.svg.png?20180405191459)](https://www.youtube.com/@thesupersupersigma)-->
 
-[![Visit My Website](https://top10websites.lol/yunomiles.png)](https://top10websites.lol/)
+[![Visit My Website](https://top10websites.lol/yunomiles.png)](https://thesupersupersigma.com/)
 
 ## My Socials ##
 
@@ -32,11 +32,7 @@ tiktok: https://www.tiktok.com/@thesupersupersigma
 
 youtube: https://www.youtube.com/@thesupersupersigma
 
-# Pls Donate To Keep The website Up🙏 #
-## Website Expires on 2/22/2026 ##
-https://cash.app/$thesupersupersigma
-
-If any of my repositories (except for this one) are public message me immediately on discord
+If any of my repositories (except for this one and my website) are public message me immediately on discord
 
 <!--
 **TheSuperSuperSigma/thesupersupersigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
