@@ -22,7 +22,7 @@ https://www.youtube.com
 
 <!--[![youtube logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/960px-YouTube_dark_logo_2017.svg.png?20180405191459)](https://www.youtube.com/@thesupersupersigma)-->
 
-[![Visit My Website](https://top10websites.lol/yunomiles.png)](https://thesupersupersigma.com/)
+[![Visit My Website](https://thesupersupersigma.com/public/ym.png)](https://thesupersupersigma.com/)
 
 ## My Socials ##
 
