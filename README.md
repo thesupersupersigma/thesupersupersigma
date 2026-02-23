@@ -2,7 +2,7 @@ https://google.com/
 
 <!--[![google logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Google_Favicon_2025.svg/960px-Google_Favicon_2025.svg.png?20251015042304)](https://google.com)-->
 
-https://top10websites.lol
+https://thesupersupersigma.com
 
 <!--[![top10websites facivon.ico](https://top10websites.lol/favicon.ico)](https://top10websites.lol)-->
 
@@ -32,7 +32,7 @@ tiktok: https://www.tiktok.com/@thesupersupersigma
 
 youtube: https://www.youtube.com/@thesupersupersigma
 
-If any of my repositories (except for this one and my website) are public message me immediately on discord
+If any of my repositories (except for this one and my website repo) are public message me immediately on discord
 
 <!--
 **TheSuperSuperSigma/thesupersupersigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
