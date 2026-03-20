@@ -10,7 +10,7 @@ https://thesupersupersigma.com
 
 https://apple1.vandrekalenderen.dk/
 
-
+## Other Links ##
 
 https://discord.com
 
