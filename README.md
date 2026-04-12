@@ -11,6 +11,7 @@ https://google.com/
 * Python
 * Javascript
 * Typescript
+* Swift
 
 ## My Socials ##
 
