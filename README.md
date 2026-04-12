@@ -1,34 +1,16 @@
 https://google.com/
 
-<!--[![google logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Google_Favicon_2025.svg/960px-Google_Favicon_2025.svg.png?20251015042304)](https://google.com)-->
+## Currently Learning ##
 
-https://thesupersupersigma.com
+* HTML
+* CSS
 
-<!--[![top10websites facivon.ico](https://top10websites.lol/favicon.ico)](https://top10websites.lol)-->
+## Want to learn ##
 
-## Proxy Sites ##
-
-https://apple1.vandrekalenderen.dk/
-
-## Other Links ##
-
-https://discord.com
-
-<!--[![discord logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Discord-logo-icon.jpg/960px-Discord-logo-icon.jpg?20260204184612)](https://discord.com)-->
-
-https://www.tiktok.com
-
-<!--[![Alt text for the image](https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/TikTok_logo.svg/500px-TikTok_logo.svg.png?20200415104610)](https://www.tiktok.com/@thesupersupersigma)-->
-
-https://instagram.com
-
-<!--[![instagram logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Instagram_2016_wordmark.svg/960px-Instagram_2016_wordmark.svg.png?20250420105210)](https://instagram.com)-->
-
-https://www.youtube.com
-
-<!--[![youtube logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_dark_logo_2017.svg/960px-YouTube_dark_logo_2017.svg.png?20180405191459)](https://www.youtube.com/@thesupersupersigma)-->
-
-[![Visit My Website](https://thesupersupersigma.com/public/ym.png)](https://thesupersupersigma.com/)
+* C
+* Python
+* Javascript
+* Typescript
 
 ## My Socials ##
 
