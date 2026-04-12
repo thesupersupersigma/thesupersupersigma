@@ -21,8 +21,6 @@ tiktok: https://www.tiktok.com/@thesupersupersigma
 
 youtube: https://www.youtube.com/@thesupersupersigma
 
-If any of my repositories (except for this one and my website repo) are public message me immediately on discord
-
 <!--
 **TheSuperSuperSigma/thesupersupersigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
