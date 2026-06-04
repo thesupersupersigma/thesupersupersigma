@@ -15,7 +15,7 @@ https://google.com/
 
 ## My Socials ##
 
-discord username: thesupersupersigma
+discord username: thesuper2sigma (i got locked out of my main acc)
 
 tiktok: https://www.tiktok.com/@thesupersupersigma
 
