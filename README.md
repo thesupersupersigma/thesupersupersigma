@@ -40,7 +40,7 @@
 
 **Cloud, DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=vercel,docker,git,github,vscode,apple,windows,linux,discord" alt="tooling" />
+<img src="https://skillicons.dev/icons?i=vercel,docker,git,github,vscode,apple,windows,linux,discord,npm" alt="tooling" />
 
 ## Systems, DevOps & Automation
 
