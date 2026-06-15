@@ -1,11 +1,9 @@
-https://google.com/
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=200&section=header&text=thesupersupersigma&fontColor=ffffff&fontSize=58&fontAlignY=38&descAlignY=58&descSize=18&animation=fadeIn&customFontFamilyName=Syne&customFontFamilyUrl=https://raw.githubusercontent.com/thesupersupersigma/thesupersupersigma/main/fonts/Syne-SemiBold.ttf" alt="header" />
 
 <a href="https://github.com/thesupersupersigma">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=620&lines=hand-coding+websites+from+scratch;breaking+and+fixing+operating+systems;running+servers+out+of+my+room;always+in+the+middle+of+something" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=600&size=24&duration=3000&pause=700&color=F5F5F5&center=true&width=435&lines=And+be+careful+of+what+you+do;Cause+the+lie+becomes+the+truth;-+Michael+Jackson" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,8 +33,6 @@ https://google.com/
 
 </div>
 
----
-
 ## Tech Stack
 
 **Languages**
@@ -47,11 +43,9 @@ https://google.com/
 
 <img src="https://skillicons.dev/icons?i=firebase" alt="backend" />
 
-**Cloud, DevOps & Tooling**
+**Cloud, DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=vercel,docker,git,github,vscode,apple,windows,linux" alt="tooling" />
-
----
+<img src="https://skillicons.dev/icons?i=vercel,docker,git,github,vscode,apple,windows,linux,discord" alt="tooling" />
 
 ## Systems, DevOps & Automation
 
@@ -69,21 +63,18 @@ https://google.com/
 ## Featured Project
 
 <details open>
-<summary><b>thesupersupersigma.com</b> — personal website, made by me</summary>
+<summary><b>thesupersupersigma.com</b> — My own website made by me</summary>
 
 <br/>
 
-No framework, no page builder, no starter template. Just HTML and CSS written line by line, organized in a clean folder structure, deployed on Vercel with a custom domain and email setup I configured myself.
+This website is the 2nd website I've ever bought and my only .com website
 
 | Aspect | Detail |
 | :--- | :--- |
-| **Stack** | HTML, CSS, Vercel |
-| **Scope** | Layout, styling, navigation, hosting, DNS, email — all solo |
-| **Approach** | Written from scratch, no templates |
+| **Stack** | HTML, CSS, Vercel, Cloudflare |
+| **Scope** | Layout, styling, navigation, hosting, DNS, email |
 | **Repository** | [thesupersupersigma/thesupersupersigma.com](https://github.com/thesupersupersigma/thesupersupersigma.com) |
 | **Live** | [thesupersupersigma.com](https://thesupersupersigma.com) |
-
-Every part of it is mine — including the hours spent debugging nav centering and getting the deploy pipeline to actually work.
 
 </details>
 
@@ -102,8 +93,6 @@ Every part of it is mine — including the hours spent debugging nav centering a
 
 </div>
 
----
-
 ## GitHub Trophies
 
 <div align="center">
@@ -111,8 +100,6 @@ Every part of it is mine — including the hours spent debugging nav centering a
 <img src="https://github-profile-trophy.vercel.app/?username=thesupersupersigma&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
 
 </div>
-
----
 
 ## Contribution Activity
 
@@ -122,11 +109,9 @@ Every part of it is mine — including the hours spent debugging nav centering a
 
 </div>
 
----
-
 ## Contribution Snake
 
-<!-- TODO: needs the Platane/snk GitHub Action set up in this repo outputting to the output branch, otherwise this 404s -->
+<img width="100%" src="https://raw.githubusercontent.com/thesupersupersigma/thesupersupersigma/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 <div align="center">
 
@@ -134,63 +119,16 @@ Every part of it is mine — including the hours spent debugging nav centering a
 
 </div>
 
----
-
 ## Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
----
-
-## What I'm doing right now
-
-```yaml
-learning:
-  - JavaScript fundamentals (properly, not just copy-paste)
-  - full-stack path on Codecademy
-  - backend stuff beyond static sites
-
-building:
-  - thesupersupersigma.com
-  - random automation scripts whenever something annoys me
-  - self-hosted stuff on my own server
-
-messing with:
-  - Linux internals
-  - Docker
-  - local AI on my own hardware
-
-open to:
-  - open-source collab
-  - internships / freelance
-  - just talking to other devs
-```
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="mailto:thesupersupersigma@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-thesupersupersigma-ffffff?style=for-the-badge&logo=gmail&logoColor=black&labelColor=111111" alt="Gmail" />
-</a>
-<a href="https://www.linkedin.com/in/thesupersupersigma/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-ffffff?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=111111" alt="LinkedIn" />
-</a>
-<a href="https://github.com/thesupersupersigma">
-  <img src="https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=111111" alt="GitHub" />
-</a>
-<a href="https://thesupersupersigma.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=111111" alt="Portfolio" />
-</a>
-
 </div>
 
----
-
 <div align="center">
+
+Here are some of my projects that I've worked on.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=120&section=footer" alt="footer" />
 
