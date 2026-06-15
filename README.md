@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=600&size=24&duration=3000&pause=700&color=F5F5F5&center=true&width=435&lines=And+be+careful+of+what+you+do;Cause+the+lie+becomes+the+truth;-+Michael+Jackson" alt="Typing SVG" />
 </a>
 
+<br>
+
 <a href="https://thesupersupersigma.com">
   <img src="https://img.shields.io/badge/Portfolio-thesupersupersigma.com-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=111111" alt="Portfolio" />
 </a>
@@ -19,7 +21,7 @@
   <img src="https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=111111" alt="GitHub" />
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=thesupersupersigma&label=Profile%20Views&color=222222&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/thesupersupersigma?label=Followers&style=for-the-badge&color=222222&logo=github&logoColor=white" alt="Followers" />
