@@ -107,11 +107,11 @@ This website is the 2nd website I've ever bought and my only .com website
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/thesupersupersigma/thesupersuperanime.lol/pull/6) in [thesupersupersigma/thesupersuperanime.lol](https://github.com/thesupersupersigma/thesupersuperanime.lol)
-2. 💪 Opened PR [#6](https://github.com/thesupersupersigma/thesupersuperanime.lol/pull/6) in [thesupersupersigma/thesupersuperanime.lol](https://github.com/thesupersupersigma/thesupersuperanime.lol)
-3. 🎉 Merged PR [#5](https://github.com/thesupersupersigma/thesupersuperanime.lol/pull/5) in [thesupersupersigma/thesupersuperanime.lol](https://github.com/thesupersupersigma/thesupersuperanime.lol)
-4. 💪 Opened PR [#5](https://github.com/thesupersupersigma/thesupersuperanime.lol/pull/5) in [thesupersupersigma/thesupersuperanime.lol](https://github.com/thesupersupersigma/thesupersuperanime.lol)
-5. 🎉 Merged PR [#2](https://github.com/thesupersupersigma/thesupersupersigma/pull/2) in [thesupersupersigma/thesupersupersigma](https://github.com/thesupersupersigma/thesupersupersigma)
+1. 💪 Opened PR [#7](https://github.com/thesupersupersigma/thesupersuperanime.lol/pull/7) in [thesupersupersigma/thesupersuperanime.lol](https://github.com/thesupersupersigma/thesupersuperanime.lol)
+2. 🎉 Merged PR [#6](https://github.com/thesupersupersigma/thesupersuperanime.lol/pull/6) in [thesupersupersigma/thesupersuperanime.lol](https://github.com/thesupersupersigma/thesupersuperanime.lol)
+3. 💪 Opened PR [#6](https://github.com/thesupersupersigma/thesupersuperanime.lol/pull/6) in [thesupersupersigma/thesupersuperanime.lol](https://github.com/thesupersupersigma/thesupersuperanime.lol)
+4. 🎉 Merged PR [#5](https://github.com/thesupersupersigma/thesupersuperanime.lol/pull/5) in [thesupersupersigma/thesupersuperanime.lol](https://github.com/thesupersupersigma/thesupersuperanime.lol)
+5. 💪 Opened PR [#5](https://github.com/thesupersupersigma/thesupersuperanime.lol/pull/5) in [thesupersupersigma/thesupersuperanime.lol](https://github.com/thesupersupersigma/thesupersuperanime.lol)
 <!--END_SECTION:activity-->
 
 </div>
