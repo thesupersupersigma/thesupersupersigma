@@ -107,11 +107,11 @@ This website is the 2nd website I've ever bought and my only .com website
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 1.0.1 (Slightly Tested)](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer/releases/tag/Master) in [thesupersupersigma/flywheelOfTerrorMultiplayer](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer)
-2. 🎉 Merged PR [#2](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer/pull/2) in [thesupersupersigma/flywheelOfTerrorMultiplayer](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer)
-3. 💪 Opened PR [#2](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer/pull/2) in [thesupersupersigma/flywheelOfTerrorMultiplayer](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer)
-4. 🎉 Merged PR [#1](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer/pull/1) in [thesupersupersigma/flywheelOfTerrorMultiplayer](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer)
-5. 💪 Opened PR [#1](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer/pull/1) in [thesupersupersigma/flywheelOfTerrorMultiplayer](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer)
+1. 🚀 Published release [Version 1.0.1 (Slightly Tested)](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer-0.7-archive/releases/tag/Master) in [thesupersupersigma/flywheelOfTerrorMultiplayer-0.7-archive](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer-0.7-archive)
+2. 🎉 Merged PR [#2](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer-0.7-archive/pull/2) in [thesupersupersigma/flywheelOfTerrorMultiplayer-0.7-archive](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer-0.7-archive)
+3. 💪 Opened PR [#2](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer-0.7-archive/pull/2) in [thesupersupersigma/flywheelOfTerrorMultiplayer-0.7-archive](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer-0.7-archive)
+4. 🎉 Merged PR [#1](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer-0.7-archive/pull/1) in [thesupersupersigma/flywheelOfTerrorMultiplayer-0.7-archive](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer-0.7-archive)
+5. 💪 Opened PR [#1](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer-0.7-archive/pull/1) in [thesupersupersigma/flywheelOfTerrorMultiplayer-0.7-archive](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer-0.7-archive)
 <!--END_SECTION:activity-->
 
 </div>
