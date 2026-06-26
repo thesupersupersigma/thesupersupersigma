@@ -107,11 +107,11 @@ This website is the 2nd website I've ever bought and my only .com website
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer/pull/1) in [thesupersupersigma/flywheelOfTerrorMultiplayer](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer)
-2. 💪 Opened PR [#1](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer/pull/1) in [thesupersupersigma/flywheelOfTerrorMultiplayer](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer)
-3. 💪 Opened PR [#7](https://github.com/thesupersupersigma/thesupersuperanime.lol/pull/7) in [thesupersupersigma/thesupersuperanime.lol](https://github.com/thesupersupersigma/thesupersuperanime.lol)
-4. 🎉 Merged PR [#6](https://github.com/thesupersupersigma/thesupersuperanime.lol/pull/6) in [thesupersupersigma/thesupersuperanime.lol](https://github.com/thesupersupersigma/thesupersuperanime.lol)
-5. 💪 Opened PR [#6](https://github.com/thesupersupersigma/thesupersuperanime.lol/pull/6) in [thesupersupersigma/thesupersuperanime.lol](https://github.com/thesupersupersigma/thesupersuperanime.lol)
+1. 🚀 Published release [Version 1.0.1 (Slightly Tested)](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer/releases/tag/Master) in [thesupersupersigma/flywheelOfTerrorMultiplayer](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer)
+2. 🎉 Merged PR [#2](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer/pull/2) in [thesupersupersigma/flywheelOfTerrorMultiplayer](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer)
+3. 💪 Opened PR [#2](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer/pull/2) in [thesupersupersigma/flywheelOfTerrorMultiplayer](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer)
+4. 🎉 Merged PR [#1](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer/pull/1) in [thesupersupersigma/flywheelOfTerrorMultiplayer](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer)
+5. 💪 Opened PR [#1](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer/pull/1) in [thesupersupersigma/flywheelOfTerrorMultiplayer](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer)
 <!--END_SECTION:activity-->
 
 </div>
