@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=200&section=header&text=thesupersupersigma&fontColor=ffffff&fontSize=58&fontAlignY=38&descAlignY=58&descSize=18&animation=fadeIn&customFontFamilyName=Syne&customFontFamilyUrl=https://raw.githubusercontent.com/thesupersupersigma/thesupersupersigma/main/fonts/Syne-SemiBold.ttf" alt="header" />
 
 <a href="https://github.com/thesupersupersigma">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=600&size=24&duration=3000&pause=700&color=F5F5F5&center=true&width=435&lines=And+be+careful+of+what+you+do;Cause+the+lie+becomes+the+truth;-+Michael+Jackson" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=600&size=24&duration=3000&pause=700&color=F5F5F5&center=true&width=435&lines=hi" alt="Typing SVG" />
 </a>
 
 <br>
@@ -74,19 +74,6 @@ This website is the 2nd website I've ever bought and my only .com website
 </details>
 
 ---
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thesupersupersigma&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=aaaaaa&text_color=c9d1d9" alt="stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=thesupersupersigma&hide_border=true&background=0d1117&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=8b949e&stroke=333333" alt="streak" />
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesupersupersigma&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&langs_count=8" alt="top langs" />
-
-</div>
 
 ## Contribution Activity
 
