@@ -94,7 +94,7 @@ This website is the 2nd website I've ever bought and my only .com website
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 1.1.0 (Not Tested)](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer/releases/tag/Release) in [thesupersupersigma/flywheelOfTerrorMultiplayer](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer)
+1. 💪 Opened PR [#31](https://github.com/sharpemu/sharpemu-site/pull/31) in [sharpemu/sharpemu-site](https://github.com/sharpemu/sharpemu-site)
 2. 💪 Opened PR [#7](https://github.com/thesupersupersigma/thesupersuperanime.lol/pull/7) in [thesupersupersigma/thesupersuperanime.lol](https://github.com/thesupersupersigma/thesupersuperanime.lol)
 3. 🎉 Merged PR [#2](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer-0.7-archive/pull/2) in [thesupersupersigma/flywheelOfTerrorMultiplayer-0.7-archive](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer-0.7-archive)
 4. 💪 Opened PR [#2](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer-0.7-archive/pull/2) in [thesupersupersigma/flywheelOfTerrorMultiplayer-0.7-archive](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer-0.7-archive)
