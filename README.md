@@ -94,11 +94,11 @@ This website is the 2nd website I've ever bought and my only .com website
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/sharpemu/sharpemu-site/pull/33) in [sharpemu/sharpemu-site](https://github.com/sharpemu/sharpemu-site)
-2. ℹ️ Labeled issue [#32](https://github.com/sharpemu/sharpemu-site/issues/32) in [sharpemu/sharpemu-site](https://github.com/sharpemu/sharpemu-site)
-3. ❗ Opened issue [#32](https://github.com/sharpemu/sharpemu-site/issues/32) in [sharpemu/sharpemu-site](https://github.com/sharpemu/sharpemu-site)
-4. 💪 Opened PR [#31](https://github.com/sharpemu/sharpemu-site/pull/31) in [sharpemu/sharpemu-site](https://github.com/sharpemu/sharpemu-site)
-5. 🎉 Merged PR [#1](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer-0.7-archive/pull/1) in [thesupersupersigma/flywheelOfTerrorMultiplayer-0.7-archive](https://github.com/thesupersupersigma/flywheelOfTerrorMultiplayer-0.7-archive)
+1. 🎉 Merged PR [#31](https://github.com/sharpemu/sharpemu-site/pull/31) in [sharpemu/sharpemu-site](https://github.com/sharpemu/sharpemu-site)
+2. 💪 Opened PR [#33](https://github.com/sharpemu/sharpemu-site/pull/33) in [sharpemu/sharpemu-site](https://github.com/sharpemu/sharpemu-site)
+3. ℹ️ Labeled issue [#32](https://github.com/sharpemu/sharpemu-site/issues/32) in [sharpemu/sharpemu-site](https://github.com/sharpemu/sharpemu-site)
+4. ❗ Opened issue [#32](https://github.com/sharpemu/sharpemu-site/issues/32) in [sharpemu/sharpemu-site](https://github.com/sharpemu/sharpemu-site)
+5. 💪 Opened PR [#31](https://github.com/sharpemu/sharpemu-site/pull/31) in [sharpemu/sharpemu-site](https://github.com/sharpemu/sharpemu-site)
 <!--END_SECTION:activity-->
 
 </div>
