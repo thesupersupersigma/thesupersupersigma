@@ -32,7 +32,7 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=html,css,bash" alt="languages" />
+<img src="https://skillicons.dev/icons?i=html,css,bash" alt="languages" /> do not flame me bru
 
 **Backend & Databases**
 
