@@ -105,7 +105,7 @@ This website is the 2nd website I've ever bought and my only .com website
 
 <div align="center">
 
-Here are some of my projects that I've worked on.
+Here are some projects that I've worked on.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=120&section=footer" alt="footer" />
 
