@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=600&size=24&duration=3000&pause=700&color=F5F5F5&center=true&width=435&lines=hi" alt="Typing SVG" />
 </a>
 
-<br>
-
-<a href="https://thesupersupersigma.com">
-  <img src="https://img.shields.io/badge/Portfolio-thesupersupersigma.com-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=111111" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/thesupersupersigma/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-ffffff?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=111111" alt="LinkedIn" />
@@ -17,14 +13,6 @@
 <a href="mailto:thesupersupersigma@gmail.com">
   <img src="https://img.shields.io/badge/Email-Reach_Me-ffffff?style=for-the-badge&logo=gmail&logoColor=black&labelColor=111111" alt="Email" />
 </a>
-<a href="https://github.com/thesupersupersigma">
-  <img src="https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=111111" alt="GitHub" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=thesupersupersigma&label=Profile%20Views&color=222222&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/thesupersupersigma?label=Followers&style=for-the-badge&color=222222&logo=github&logoColor=white" alt="Followers" />
 
 </div>
 
@@ -40,66 +28,21 @@
 
 **Cloud, DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=vercel,docker,git,github,vscode,apple,windows,linux,discord,npm" alt="tooling" />
+<img src="https://skillicons.dev/icons?i=vercel,docker,git,github,vscode,apple,windows,linux,discord,npm,cloudflare,ubuntu" alt="tooling" />
 
-## Systems, DevOps & Automation
+<br>
 
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| Web Deployment | Comfortable | Vercel deploys, DNS, domain + email management, service migrations |
-| Linux Server Admin | Comfortable | Ubuntu cloud server, systemd services, SSH, Docker containers |
-| Cross-OS System Work | Comfortable | macOS / Linux / Windows installs, recovery, partitioning, drivers |
-| Scripting & Automation | Comfortable | Bash CLI tools, OCR-based and repetitive-task automation |
-| Self-Hosting / Local AI | Familiar | Running local LLMs (Ollama) and small APIs on personal hardware |
-| Full-Stack Fundamentals | Learning | HTML/CSS solid, working through JavaScript and backend concepts |
+## Setup
 
----
-
-## Featured Project
-
-<details open>
-<summary><b>thesupersupersigma.com</b> — My own website made by me</summary>
-
-<br/>
-
-This website is the 2nd website I've ever bought and my only .com website
-
-| Aspect | Detail |
+| Device | Spec |
 | :--- | :--- |
-| **Stack** | HTML, CSS, Vercel, Cloudflare |
-| **Scope** | Layout, styling, navigation, hosting, DNS, email |
-| **Repository** | [thesupersupersigma/thesupersupersigma.com](https://github.com/thesupersupersigma/thesupersupersigma.com) |
-| **Live** | [thesupersupersigma.com](https://thesupersupersigma.com) |
+| MacBook Pro 16" (2019) | i9-9980HK, 32GB RAM, AMD Radeon Pro 5500M |
+| Home Server | 2x Intel Xeon E5620 64GB DDR3 Ubuntu Server 22.04 LTS (the goat)|
 
-</details>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thesupersupersigma&bg_color=0d1117&color=ffffff&line=ffffff&point=aaaaaa&area=true&hide_border=true" alt="activity graph" />
-
-</div>
-
-## Contribution Snake
 
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/thesupersupersigma/thesupersupersigma/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-</div>
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/sharpemu/sharpemu-site/pull/31) in [sharpemu/sharpemu-site](https://github.com/sharpemu/sharpemu-site)
-2. 💪 Opened PR [#33](https://github.com/sharpemu/sharpemu-site/pull/33) in [sharpemu/sharpemu-site](https://github.com/sharpemu/sharpemu-site)
-3. ℹ️ Labeled issue [#32](https://github.com/sharpemu/sharpemu-site/issues/32) in [sharpemu/sharpemu-site](https://github.com/sharpemu/sharpemu-site)
-4. ❗ Opened issue [#32](https://github.com/sharpemu/sharpemu-site/issues/32) in [sharpemu/sharpemu-site](https://github.com/sharpemu/sharpemu-site)
-5. 💪 Opened PR [#31](https://github.com/sharpemu/sharpemu-site/pull/31) in [sharpemu/sharpemu-site](https://github.com/sharpemu/sharpemu-site)
-<!--END_SECTION:activity-->
 
 </div>
 
@@ -114,3 +57,5 @@ Here are some projects that I've worked on.
 <!--
 **TheSuperSuperSigma/thesupersupersigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+<!--last updated 09/03/2026-->
