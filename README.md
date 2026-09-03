@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=600&size=24&duration=3000&pause=700&color=F5F5F5&center=true&width=435&lines=hi" alt="Typing SVG" />
 </a>
 
+<br>
+
 </a>
 <a href="https://www.linkedin.com/in/thesupersupersigma/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-ffffff?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=111111" alt="LinkedIn" />
