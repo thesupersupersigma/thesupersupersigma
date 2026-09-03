@@ -30,8 +30,6 @@
 
 <img src="https://skillicons.dev/icons?i=vercel,docker,git,github,vscode,apple,windows,linux,discord,npm,cloudflare,ubuntu" alt="tooling" />
 
-<br>
-
 ## Setup
 
 | Device | Spec |
