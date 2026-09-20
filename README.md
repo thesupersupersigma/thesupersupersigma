@@ -46,7 +46,7 @@
 
 <div align="center">
 
-Here are some of my projects
+Here are some of my projects/things I've worked on
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=120&section=footer" alt="footer" />
 
