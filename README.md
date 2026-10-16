@@ -37,13 +37,6 @@
 | MacBook Pro 16" (2019) | i9-9980HK, 32GB RAM, AMD Radeon Pro 5500M |
 | Home Server | 2x Intel Xeon E5620 64GB DDR3 Ubuntu Server 22.04 LTS (the goat)|
 
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/thesupersupersigma/thesupersupersigma/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-</div>
-
 <div align="center">
 
 Here are some of my projects/things I've worked on
