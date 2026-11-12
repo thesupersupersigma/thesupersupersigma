@@ -22,6 +22,10 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,bash" alt="languages" /> do not flame me bru
 
+**Languages I Slightly Know**
+
+<img src="https://skillicons.dev/icons?i=cpp" alt="languages" />
+
 **Backend & Databases**
 
 <img src="https://skillicons.dev/icons?i=firebase" alt="backend" />
