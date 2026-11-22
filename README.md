@@ -18,6 +18,12 @@
 
 </div>
 
+<div align="center">
+  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=thesupersupersigma&show_icons=true&include_all_commits=true&disable_animations=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&disable_animations=true&theme=dark)
+  
+</div>
+
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,bash" alt="languages" /> do not flame me bru
